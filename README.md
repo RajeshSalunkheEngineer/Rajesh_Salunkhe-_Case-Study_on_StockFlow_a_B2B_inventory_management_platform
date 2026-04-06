@@ -1,0 +1,2 @@
+# Rajesh_Salunkhe-_Case-Study_on_StockFlow_a_B2B_inventory_management_platform
+Inventory Management System for B2B SaaS
