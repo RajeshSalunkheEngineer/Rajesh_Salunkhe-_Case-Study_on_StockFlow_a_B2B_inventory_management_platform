@@ -1,0 +1,8 @@
+{
+  "name": "Industrial Valve",
+  "sku": "VALVE-001",
+  "price": 450.50,
+  "warehouse_id": 1,
+  "initial_quantity": 5,
+  "company_id": 1
+}
